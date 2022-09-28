@@ -1,2 +1,2 @@
 # OPMA419 McMenu Project
-Used R and Tableau to create a McDonalds protein (or macronutrient) optimization dashboard. Made in collaboration with [Shaan Gehlot](https://www.linkedin.com/in/shaan-gehlot/) and [Nevin Sangha](https://www.linkedin.com/in/nevinsangha/).
+Used R and Tableau to create a McDonalds protein (or macronutrient) optimization dashboard. Made in collaboration with [Shaan Gehlot](https://www.linkedin.com/in/shaan-gehlot/) and [Nevin Sangha](https://www.linkedin.com/in/nevinsangha/). Data collected from [Kaggle](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts). More information about this project can be found on my [personal google site](https://sites.google.com/view/bleblanc/projects/opma-419-mcmenu-menu-option-optimization).
